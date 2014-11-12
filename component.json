@@ -1,0 +1,11 @@
+{
+	"name": "angular-youtube",
+	"version": "1.0.0",
+	"main": "./imagesColumns.js",
+	"dependencies": {
+		"angular": "~1.0.5"
+	},
+	"ignore": [
+		"test/*",
+	]
+}
